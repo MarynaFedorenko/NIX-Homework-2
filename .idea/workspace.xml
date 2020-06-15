@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b4c66d3-e3cd-4dae-8b49-63542ff527ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Maven/tools/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1dAEqSXL9Z2hYzx4LgsuZquQh1H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NIX Homework 2.2/experienceusingclass" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="nix" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java projects\maven1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DataBuilderTest.findByClassIdAndRemove">
+    <configuration name="DataBuilderTest.findByClassIdAndRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nix" />
+      <option name="MAIN_CLASS_NAME" value="nix.DataBuilderTest" />
+      <option name="METHOD_NAME" value="findByClassIdAndRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBuilderTest.findByClassIdInStudentClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nix" />
+      <option name="MAIN_CLASS_NAME" value="nix.DataBuilderTest" />
+      <option name="METHOD_NAME" value="findByClassIdInStudentClass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBuilderTest.findByClassName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nix" />
+      <option name="MAIN_CLASS_NAME" value="nix.DataBuilderTest" />
+      <option name="METHOD_NAME" value="findByClassName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBuilderTest.findByLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nix" />
+      <option name="MAIN_CLASS_NAME" value="nix.DataBuilderTest" />
+      <option name="METHOD_NAME" value="findByLastName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBuilderTest.findByStudentIdInStudentClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maven1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nix" />
+      <option name="MAIN_CLASS_NAME" value="nix.DataBuilderTest" />
+      <option name="METHOD_NAME" value="findByStudentIdInStudentClass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DataBuilderTest.findByClassIdAndRemove" />
+        <item itemvalue="JUnit.DataBuilderTest.findByClassIdInStudentClass" />
+        <item itemvalue="JUnit.DataBuilderTest.findByStudentIdInStudentClass" />
+        <item itemvalue="JUnit.DataBuilderTest.findByClassName" />
+        <item itemvalue="JUnit.DataBuilderTest.findByLastName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b4c66d3-e3cd-4dae-8b49-63542ff527ac" name="Default Changelist" comment="" />
+      <created>1591859687459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591859687459</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="87" key="#Project_Structure" timestamp="1592034604551">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="87" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1592034604551" />
+    <state x="254" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591875482284">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1591875482284" />
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1592162334531">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1592162334531" />
+    <state x="605" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1591871876655">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1591871876655" />
+    <state x="529" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591875460424">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="529" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1591875460424" />
+    <state x="596" y="288" width="407" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591873911477">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="288" width="407" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1591873911477" />
+    <state x="580" y="183" key="FileChooserDialogImpl" timestamp="1592135153931">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1592135153931" />
+    <state width="1556" height="49" key="GridCell.Tab.0.bottom" timestamp="1592202818084">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="49" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1592202818084" />
+    <state width="1556" height="49" key="GridCell.Tab.0.center" timestamp="1592202818084">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="49" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1592202818084" />
+    <state width="1556" height="49" key="GridCell.Tab.0.left" timestamp="1592202818084">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="49" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1592202818084" />
+    <state width="1556" height="49" key="GridCell.Tab.0.right" timestamp="1592202818084">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="49" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1592202818084" />
+    <state width="1556" height="362" key="GridCell.Tab.1.bottom" timestamp="1592179053288">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="362" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1592179053288" />
+    <state width="1556" height="362" key="GridCell.Tab.1.center" timestamp="1592179053288">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="362" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1592179053288" />
+    <state width="1556" height="362" key="GridCell.Tab.1.left" timestamp="1592179053288">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="362" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1592179053288" />
+    <state width="1556" height="362" key="GridCell.Tab.1.right" timestamp="1592179053288">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="362" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1592179053288" />
+    <state x="330" y="83" key="Maven.ArtifactSearchDialog" timestamp="1591860881649">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="83" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1591860881649" />
+    <state x="280" y="3" key="SettingsEditor" timestamp="1592147303547">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="3" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1592147303547" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1592200491829">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1592200491829" />
+    <state x="542" y="58" key="refactoring.ChangeSignatureDialog" timestamp="1591871575816">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="542" y="58" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1591871575816" />
+    <state x="456" y="190" key="run.anything.popup" timestamp="1591881435950">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1591881435950" />
+  </component>
+</project>
